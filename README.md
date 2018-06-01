@@ -14,3 +14,7 @@ TO DO'S -
  Dependencies:  autologin
  
  `pip install autologin`
+ 
+ Developed using Python 3.6.4
+ 
+ Python version required : 3.x
